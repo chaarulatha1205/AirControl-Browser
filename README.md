@@ -1,5 +1,7 @@
 # AirControl-Browser
 🚀 Gesture-Based Web Automation System
+
+
 📌 Overview
 
 This project presents a real-time gesture-controlled web automation system that replaces traditional mouse and keyboard interactions with computer vision-based hand gestures. Using live video input, the system detects, interprets, and maps hand gestures to browser actions, enabling a completely touchless web interaction experience.
